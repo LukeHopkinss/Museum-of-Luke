@@ -44,7 +44,7 @@ export const dialogueData = {
 
     bookshelf2: "On this shelf is my manga collection. Similarly to books, I also love to read manga. My favorite manga right now is definitely <a href='https://anilist.co/manga/37375/The-Climber/'>The Climber by Shinichi Sakamoto</a>, but you can check out my list <a href= 'https://anilist.co/user/LukeHopkins/mangalist'>here</a>.",
 
-    papertable: "This is my <a href='https://drive.google.com/file/d/1hnlepFQsZsBiLJGIqk9tnwX2u6pvvb0U/view?usp=drive_link'>resume</a>! I am a rising sophmore at NYU studying Computer Science. I am currently looking for internships for the summer of 2025. If you have any opportunities or just want to chat, please reach out to me through the email on the resume!",
+    papertable: "This is my <a href='https://drive.google.com/file/d/14WIO9b5KrGr0cXgKlaR2gTHzSvx_8Um-/view?usp=sharing'>resume</a>! I am a rising sophmore at NYU studying Computer Science. I am currently looking for internships for the summer of 2025. If you have any opportunities or just want to chat, please reach out to me through the email on the resume!",
 
     computers: "This where I create my coding projects. Recently I have been really enjoying creating projects utilizing JavaScript and libraries with JavaScript (like this project!). You can find my full portfolio of projects <a href='https://github.com/LukeHopkinss'>here</a>.",
 
